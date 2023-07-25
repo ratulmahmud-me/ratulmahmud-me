@@ -1,4 +1,4 @@
-# ![logo]()
+<!-- ![logo](http url of the image in github) -->
 <h1 align="center">Hi 👋, I'm Md Mahmud Alam (Ratul)</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 

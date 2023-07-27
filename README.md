@@ -6,7 +6,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratulmahmud-me" alt="ratulmahmud-me" /></a> </p> -->
 
-- 🌱 I’m currently learning **Express on nodejs and mongoDB**
+- 🌱 I’m currently learning **Express on nodejs**
 
 - 💬 Ask me about **angular, javascript, php [codeigniter], nodejs, mysql**
 

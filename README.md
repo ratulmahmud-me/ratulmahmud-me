@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ratulmahmud.r@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/nrEG3)
+- 📄 Know about my experiences [Find My Resume Here](https://docs.google.com/document/d/1LCfP500QY5YL7Vt_4n8LbRqbPtUdBo8MX7EibQw3aj8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

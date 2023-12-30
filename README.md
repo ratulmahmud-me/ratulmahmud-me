@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Express in nodejs and mongoDB**
 
-- 💬 Ask me about **angular, javascript, jQuery, php [codeigniter], nodejs, mysql**
+- 💬 Ask me about **angular, javascript, jQuery, php [codeigniter], nodejs, mysql, postgres**
 
 - 📫 How to reach me **ratulmahmud.r@gmail.com**
 

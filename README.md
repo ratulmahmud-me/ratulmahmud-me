@@ -1,5 +1,5 @@
 <!-- ![logo](http url of the image in github) -->
-<h1 align="left">Hi 👋, I'm Mahmud</h1>
+<h1 align="left">Hi 👋, I'm Mahmud Alam</h1>
 <h3 align="left">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulmahmud-me&label=Profile%20views&color=0e75b6&style=flat" alt="ratulmahmud-me" /> </p>

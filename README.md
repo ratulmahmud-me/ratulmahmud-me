@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nestjs, MongoDB and Redis**
 
-- 💬 Ask me about **angular, javascript, jQuery, php, nodejs, mysql, postgres**
+- 💬 Ask me about **angular, javascript, jQuery, php, expressjs, mysql, postgres**
 
 - 📫 How to reach me **ratulmahmud.r@gmail.com**
 
